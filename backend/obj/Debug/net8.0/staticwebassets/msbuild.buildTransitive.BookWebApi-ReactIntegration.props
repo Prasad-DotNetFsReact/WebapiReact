@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookWebApi-ReactIntegration.props" />
+</Project>

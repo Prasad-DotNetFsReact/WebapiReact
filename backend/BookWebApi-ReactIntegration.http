@@ -1,0 +1,6 @@
+@BookWebApi_ReactIntegration_HostAddress = http://localhost:5251
+
+GET {{BookWebApi_ReactIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
